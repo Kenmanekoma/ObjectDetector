@@ -3,7 +3,7 @@ ObjectDetector in python
 
 ## Introduction
   This project uses OpenCV to perform real-time object detection using a computer webcam.The goal is to detect objects like people, chairs, dogs, and other objects by
-  looping over each frame of the video stream.
+  looping over each frame of the video stream. I used python 3.10 version on this project.
   
   Heres the output.
   ![alt text](image/picture.jpg)
